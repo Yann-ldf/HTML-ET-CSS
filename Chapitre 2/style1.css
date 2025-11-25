@@ -1,0 +1,19 @@
+
+ h1{
+    font-family: Arial;
+    font-size: 25px;
+    text-align: left;
+    color: purple;
+ }h2{
+    font-family: Arial;
+    font-size: 22px;
+    text-align: left;
+    color: white;
+} #texte{
+    font-family: Arial;
+    font-size: 23px;
+    text-align: justify;
+    color: white;
+} body {
+    background-image: url(../../../../../Downloads/feuilles.png);
+}
