@@ -1,19 +1,21 @@
 
  h1{
     font-family: Arial;
-    font-size: 25px;
+    font-size: 30px;
     text-align: left;
     color: purple;
  }h2{
     font-family: Arial;
-    font-size: 22px;
+    font-size: 27px;
     text-align: left;
     color: white;
 } #texte{
     font-family: Arial;
-    font-size: 23px;
-    text-align: justify;
+    font-size: 32px;
     color: white;
 } body {
-    background-image: url(../../../../../Downloads/feuilles.png);
-}
+    background-image:url(../../../../../Downloads/pingouin.png),url(../../../../../Downloads/feuilles.png) ;
+    background-position: center center,top left ;
+    background-repeat: no-repeat, repeat; 
+    background-attachment : fixed, scroll ;
+}    
