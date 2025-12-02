@@ -1,0 +1,56 @@
+h1{
+    font-family: Arial;
+    font-size: 20px;
+    background-color: rgb(255, 255, 176);
+    text-align: center;
+    color: red;
+
+}.Auteur {
+    font-family: Arial;
+    font-size: 16px;
+    color: purple;
+    text-align: center;
+} .Parcours {
+    font-family: arial;
+    font-size: 16px;
+    color: purple;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}.Étude {
+    font-family: Arial;
+    font-size: 11px;
+    text-indent: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}.Titres {
+    font-family: Arial;
+    font-size: 15px;
+    color: blue;
+}.Époque {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-style: italic;
+}.especes {
+    font-size: 13px;
+    text-decoration: underline;
+
+}.paragrapheTitres{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-indent: 12px;
+}.Premier {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-indent: 12px;
+    font-style: italic;
+}.homme{
+    margin-top:10px;
+    margin-bottom:20px;
+    color: blue;
+
+}body{
+    margin-left: 50px;
+    margin-right: 50px;
+}
