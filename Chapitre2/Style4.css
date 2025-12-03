@@ -24,10 +24,14 @@ h1{
     margin-top: 25px;
     margin-bottom: 25px;
     
-}.Titres {
+}.Titre {
     font-family: Arial;
     font-size: 15px;
     color: blue;
+}.Titre:hover {
+        color: green;
+        text-decoration: underline;
+        
 }.Époque {
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
@@ -40,6 +44,8 @@ h1{
     margin-top: 10px;
     margin-bottom: 20px;
     text-indent: 12px;
+}.paragrapheTitres:hover{
+    font-style: italic;
 }.Premier {
     margin-top: 10px;
     margin-bottom: 20px;
