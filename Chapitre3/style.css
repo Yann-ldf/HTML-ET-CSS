@@ -74,13 +74,7 @@ h2 {
   padding: 20px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   animation: fadeIn 1s ease-in-out;
-}.cv-card:hover {
-  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
-  text-decoration: underline;
-  : url("C:/Users/Le-dreffy/Documents/PHP/Projet/Aubry HTML/Chapitre3/Img/CV BTS .png");
-
 }
-
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(20px); }
   to   { opacity: 1; transform: translateY(0); }
