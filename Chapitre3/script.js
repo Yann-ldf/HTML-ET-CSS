@@ -47,7 +47,18 @@ sr.reveal('.skills-subtitle', {delay: 100} )
 sr.reveal('.skills-text', {delay: 150} )
 sr.reveal('.skills-data', {interval: 200} )
 sr.reveal('.skills-img', {delay: 400} )
+sr.reveal('.skills-section', {interval: 300} )
+sr.reveal('.skill-card', {interval: 100} )
 
 sr.reveal('.work-img', {interval: 200} )
 
+sr.reveal('.experience-item', {interval: 200} )
+
 sr.reveal('.contact-input', {interval: 200} )
+sr.reveal('.contact-info-item', {interval: 150} )
+sr.reveal('.contact-form', {delay: 200} )
+
+sr.reveal('.passions-content', {} )
+sr.reveal('.passions-img', {delay: 200} )
+
+sr.reveal('.cert-item', {interval: 150} )
